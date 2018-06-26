@@ -34,6 +34,10 @@
 * Scientific computation in Ruby: https://github.com/SciRuby/sciruby
 
 
+### Packaging
+
+* Package Ruby app into a single executable: https://github.com/pmq20/ruby-packer
+
 
 ## Books
 
@@ -41,8 +45,6 @@
 * Effective Ruby: https://www.amazon.com/exec/obidos/ASIN/0133846970/zenruby-20/ref=nosim/
 * Metaprogramming: https://www.amazon.com/exec/obidos/ASIN/1941222129/zenruby-20/ref=nosim/
 * OOP: https://www.amazon.com/exec/obidos/ASIN/0321721330/zenruby-20/ref=nosim/
-
-
 
 ## Blogs
 
